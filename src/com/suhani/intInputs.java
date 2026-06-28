@@ -2,7 +2,7 @@ package com.suhani;
 
 import java.util.Scanner;
 
-public class Inputs {
+public class intInputs {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter some input: ");
