@@ -22,12 +22,12 @@ public class TypeCasting {
 
         System.out.println(b);
 
-//        byte c = 40;
-//        byte d = 50;
-//        byte e = 100;
-//        int f = (c * d) / e;
-//
-//        System.out.println(f);
+        byte c = 40;
+        byte d = 50;
+        byte e = 100;
+        int f = (c * d) / e;
+
+        System.out.println(f);
 
         int number = 'a';
         System.out.println(number);
