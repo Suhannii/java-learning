@@ -13,6 +13,7 @@ Welcome to my Java learning repository! Here I document my progress as I dive in
 * [Sum Program](src/com/suhani/Sum.java) — Implementing standard arithmetic operations and handling user-input floats dynamically using `.nextFloat()`.
 * [Type Casting](src/com/suhani/TypeCasting.java) — Exploring implicit and explicit data type conversion rules in Java.
 * [Temperature Converter](src/com/suhani/Temprature.java) — A practical program that takes user input in Celsius and converts it to Fahrenheit using standard mathematical formulas.
+* * [Java Basics](src/com/suhani/Basics.java) — Covers essential conditional logic (`if` statements) and control flow structures, demonstrating structural entry differences between indeterminate loops (`while`) and determinate loops (`for`).
 
 ---
 *Keep tracking to see more updates as I progress!*
