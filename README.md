@@ -12,6 +12,7 @@ Welcome to my Java learning repository! Here I document my progress as I dive in
 * [String Inputs](src/com/suhani/stringInput.java) — Exploring non-primitive types and utilizing the scanner utility to read text and sentences dynamically.
 * [Sum Program](src/com/suhani/Sum.java) — Implementing standard arithmetic operations and handling user-input floats dynamically using `.nextFloat()`.
 * [Type Casting](src/com/suhani/TypeCasting.java) — Exploring implicit and explicit data type conversion rules in Java.
+* [Temperature Converter](src/com/suhani/Temprature.java) — A practical program that takes user input in Celsius and converts it to Fahrenheit using standard mathematical formulas.
 
 ---
 *Keep tracking to see more updates as I progress!*
