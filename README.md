@@ -4,16 +4,33 @@ Welcome to my Java learning repository! Here I document my progress as I dive in
 
 ---
 
-## 📂 Core Topics Covered
+## 📁 Repository Structure
 
-### 🔹 Topic 1: Core Fundamentals & Syntax
-* [Primitive Data Types](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — A breakdown of Java's 6 basic primitive types (`int`, `float`, `char`, etc.), variable declarations, and sizing rules.
-* [User Inputs & Scanner](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — Utilizing the `Scanner` utility class to capture user input interactively from the console terminal.Int Input Program.
-* [String Inputs](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — Exploring non-primitive types and utilizing the scanner utility to read text and sentences dynamically.
-* [Sum Program](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — Implementing standard arithmetic operations and handling user-input floats dynamically using `.nextFloat()`.
-* [Type Casting](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — Exploring implicit and explicit data type conversion rules in Java.
-* [Temperature Converter](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — A practical program that takes user input in Celsius and converts it to Fahrenheit using standard mathematical formulas.
-* [Java Basics](https://github.com/Suhannii/java-learning/tree/main/First%20IDEA%20Program/src/com/suhani) — Covers essential conditional logic (`if` statements) and control flow structures, demonstrating structural entry differences between indeterminate loops (`while`) and determinate loops (`for`).
+The repository is organized cleanly by topic modules:
 
+*   **`First IDEA Program/`** — Core fundamentals, data types, type casting, scanner inputs, and basic arithmetic programs under the `com.suhani` package.
+*   **`Conditional Loop/`** — Control flow structures, decision-making, and looping mechanisms structured cleanly under the `com.code` package.
+
+---
+
+## 📚 Core Topics Covered
+
+### 🔹 Module 1: Core Fundamentals & Syntax (`com.suhani`)
+*   **Primitive Data Types** — A breakdown of Java's basic primitive types (`int`, `float`, `char`, etc.), variable declarations, and sizing rules.
+*   **User Inputs & Scanner** — Utilizing the `Scanner` utility class to capture user input interactively.
+*   **Type Casting** — Exploring implicit and explicit data type conversion rules in Java.
+
+### 🔹 Module 2: Conditional Logic (`com.code`)
+*   **Basic If-Else Statements** — Understanding single-condition routing logic.
+*   **Multi-Branch If-Else-If** — Handling complex multi-conditional flows (e.g., salary/bonus calculations).
+
+---
+
+## 🛠️ How to Run
+1. Clone this repository to your local machine.
+2. Open the root folder (`java-learning`) in IntelliJ IDEA.
+3. Navigate to the desired `.java` file inside the `src/` directory of either module.
+4. Click **Run** or press `Shift + F10`.
+   
 ---
 *Keep tracking to see more updates as I progress!*
