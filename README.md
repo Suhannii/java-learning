@@ -21,8 +21,10 @@ The repository is organized cleanly by topic modules:
 *   **Type Casting** — Exploring implicit and explicit data type conversion rules in Java.
 
 ### 🔹 Module 2: Conditional Logic (`com.code`)
-*   **Basic If-Else Statements** — Understanding single-condition routing logic.
-*   **Multi-Branch If-Else-If** — Handling complex multi-conditional flows (e.g., salary/bonus calculations).
+*   **Basic If-Else Statements** — Understanding single-condition routing and multi-branch layout rules.
+*   **For Loops Syntax** — Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
+*   **Printing 1 to n** — Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
+*   **While Loops Syntax** — Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
 
 ---
 
