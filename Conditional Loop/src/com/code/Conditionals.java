@@ -29,5 +29,19 @@ public class Conditionals {
         }
 
         System.out.println(salary);
+//
+//        int a = 10;
+//        int b = 40;
+//    because one is true !!
+//        if ( a == 10 ||b == 20) {
+//            System.out.println("Hello World" );
+//        }
+
+
+        int a = 10;
+        int b = 40;
+        if ( a != 35) {
+            System.out.println("Hello World" );
+        }
     }
 }
