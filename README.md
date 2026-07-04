@@ -20,12 +20,14 @@ The repository is organized cleanly by topic modules:
 *   **User Inputs & Scanner** — Utilizing the `Scanner` utility class to capture user input interactively.
 *   **Type Casting** — Exploring implicit and explicit data type conversion rules in Java.
 
-### 🔹 Module 2: Conditional Logic (`com.code`)
-*   **Basic If-Else Statements** — Understanding single-condition routing and multi-branch layout rules.
-*   **For Loops Syntax** — Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
-*   **Printing 1 to n** — Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
-*   **While Loops Syntax** — Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
-
+  ###🔹 Module 2: Conditional Logic (`com.code`)
+*  **Basic If-Else Statements** – Understanding single-condition routing and multi-branch layout rules.
+*  **Logical & Relational Operators** – Implementing logical OR (`||`) and inequality (`!=`) operator rules to handle advanced conditional expressions.
+*  ** Finding the Maximum Value** – Evaluating multi-branch conditional paths against optimized, nested `Math.max()` utility functions to find the largest of three numbers.
+*  **For Loops Syntax** – Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
+*  **While Loops Syntax** – Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
+*  **Do-While Loops Syntax** – Learning post-test loop blocks that execute code at least once before validating terminal conditions.
+*  **Printing 1 to n** – Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
 ---
 
 ## 🛠️ How to Run
