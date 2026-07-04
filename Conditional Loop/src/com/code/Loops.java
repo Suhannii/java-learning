@@ -19,15 +19,15 @@ public class Loops {
 //        }
 
         //Q: Print numbers from 1 to n
-        Scanner in = new Scanner(System.in);
-
-        System.out.print("Enter the value of n: ");
-        int n = in.nextInt();
-
-        for (int num = 0; num <= n; num++) {
-            System.out.print(num + " ");
-            System.out.println("Hello World");
-        }
+//        Scanner in = new Scanner(System.in);
+//
+//        System.out.print("Enter the value of n: ");
+//        int n = in.nextInt();
+//
+//        for (int num = 0; num <= n; num++) {
+//            System.out.print(num + " ");
+//            System.out.println("Hello World");
+//        }
 
         // while loops
         /*
@@ -36,6 +36,31 @@ public class Loops {
                body
            }
         */
+//        int num = 1 ;
+//        while (num <= 5) {
+////            System.out.println(num);
+//            num +=1;
+//        }
+
+        // do while
+        /*
+
+              do {
+                 //body
+              } while (condition);
+
+         */
+
+//        int n = 1;
+//        do {
+//            System.out.println(n);
+//            n++;
+//        } while (n <= 5);
+
+        int n = 1;
+        do {
+            System.out.println("Hello World");
+        } while (n != 1);
 
     }
 }
