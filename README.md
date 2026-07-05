@@ -21,13 +21,15 @@ The repository is organized cleanly by topic modules:
 *   **Type Casting** — Exploring implicit and explicit data type conversion rules in Java.
 
 ### 🔹 Module 2: Conditional Logic (`com.code`)
-*  **Basic If-Else Statements** – Understanding single-condition routing and multi-branch layout rules.
-*  **Logical & Relational Operators** – Implementing logical OR (`||`) and inequality (`!=`) operator rules to handle advanced conditional expressions.
-*  ** Finding the Maximum Value** – Evaluating multi-branch conditional paths against optimized, nested `Math.max()` utility functions to find the largest of three numbers.
-*  **For Loops Syntax** – Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
-*  **While Loops Syntax** – Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
-*  **Do-While Loops Syntax** – Learning post-test loop blocks that execute code at least once before validating terminal conditions.
-*  **Printing 1 to n** – Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
+* **Basic If-Else Statements** – Understanding single-condition routing and multi-branch layout rules.
+* **Logical & Relational Operators** – Implementing logical OR (`||`) and inequality (`!=`) operator rules to handle advanced conditional expressions.
+* **Finding the Maximum Value** – Evaluating multi-branch conditional paths against optimized, nested `Math.max()` utility functions to find the largest of three numbers.
+* **Character Case Checking** – Learning character extraction from console strings using `.trim().charAt(0)` and validating alphabetic case limits using conditional relational blocks (`&&`).
+* **For Loops Syntax** – Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
+* **While Loops Syntax** – Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
+* **Do-While Loops Syntax** – Learning post-test loop blocks that execute code at least once before validating terminal conditions.
+* **Printing 1 to n** – Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
+
 ---
 
 ## 🛠️ How to Run
