@@ -25,7 +25,8 @@ The repository is organized cleanly by topic modules:
 * **Logical & Relational Operators** – Implementing logical OR (`||`) and inequality (`!=`) operator rules to handle advanced conditional expressions.
 * **Finding the Maximum Value** – Evaluating multi-branch conditional paths against optimized, nested `Math.max()` utility functions to find the largest of three numbers.
 * **Character Case Checking** – Learning character extraction from console strings using `.trim().charAt(0)` and validating alphabetic case limits using conditional relational blocks (`&&`).
-* **Fibonacci Number Generation** – Building an iterative algorithm to track down and print the $n$-th index item inside the Fibonacci sequence using temporary variable swapping mechanics.
+* **Fibonacci Number Generation** – Building an iterative algorithm to track down and print the n-th index item inside the Fibonacci sequence using temporary variable swapping mechanics.
+* **Digit Occurrence Counting** – Implementing loop extraction logic using modulo (`% 10`) and integer division (`/ 10`) to break down an integer and count targeted digit frequencies.
 * **For Loops Syntax** – Iterating through code blocks with explicit initialization, conditions, and increments/decrements.
 * **While Loops Syntax** – Utilizing conditional loop entry blocks that repeat continuous execution as long as the state holds true.
 * **Do-While Loops Syntax** – Learning post-test loop blocks that execute code at least once before validating terminal conditions.
