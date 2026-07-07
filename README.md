@@ -37,6 +37,7 @@ The repository is organized cleanly by topic modules:
  ### 🔹 **Module 3: Switch Statements & Nested Loops ( com.code )**
 
 * **Fruit Description Application** – Evaluating multi-branch string conditions by comparing traditional `.equals()` block checks with modern, clean Java enhanced arrow switch syntax (`->`) to safely implement case routing without standard fall-through bugs.
+*  **Day of the Week Switch Application** – Using integer inputs (`int day = in.nextInt()`) combined with enhanced arrow switch logic to dynamically map integers (1-7) to corresponding weekdays with built-in default case validation.
 * *More nested loop programs coming soon!*
 ---
 
