@@ -33,6 +33,11 @@ The repository is organized cleanly by topic modules:
 * **Do-While Loops Syntax** – Learning post-test loop blocks that execute code at least once before validating terminal conditions.
 * **Printing 1 to n** – Dynamic execution tracking to loop over numerical inputs provided by a user via the console.
 * **Interactive Calculator Program** – Building a continuous console application utilizing an infinite `while(true)` loop, multi-branch arithmetic `if-else` routing, division-by-zero checks, and dynamic `break` conditions on `x` or `X` operator inputs.
+
+ ### 🔹 **Module 3: Switch Statements & Nested Loops ( com.code )**
+
+* **Fruit Description Application** – Evaluating multi-branch string conditions by comparing traditional `.equals()` block checks with modern, clean Java enhanced arrow switch syntax (`->`) to safely implement case routing without standard fall-through bugs.
+* *More nested loop programs coming soon!*
 ---
 
 ## 🛠️ How to Run
