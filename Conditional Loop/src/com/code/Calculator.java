@@ -21,7 +21,36 @@ public class Calculator {
                int num2 = in.nextInt();
                 System.out.println();
 
-               
+               if (op == '+') {
+                   ans = num1 + num2;
+               }
+
+                if (op == '-') {
+                    ans = num1 - num2;
+                }
+
+                if (op == '*') {
+                    ans = num1 * num2;
+                }
+
+                if (op == '/') {
+                    if (num2 != 0) {
+                        ans = num1 / num2;
+                    }
+                }
+
+                if (op == '%') {
+                    ans = num1 % num2;
+                }
+
+            } else if (op == 'x' || op == 'X') {
+                break;
+                
+            } else {
+                System.out.println("Invalid operation !!");
+            }
+
+            System.out.println(ans);
         }
     }
 }
