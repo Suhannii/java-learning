@@ -34,6 +34,20 @@ public class NestedSwitch {
                 System.out.println("Enter correct EmpID");
         }
 
-       
+        // Better way to write :-
+
+        switch (empID) {
+            case 1 -> System.out.println("Suhani Sinha");
+            case 2 -> System.out.println("Sneha Yadav");
+            case 3 -> {
+                System.out.println("Emp Number 3");
+                switch (department) {
+                    case "IT" -> System.out.println("IT Department");
+                    case "Management" -> System.out.println("Management Departmentt");
+                    default -> System.out.println("No department Invalid");
+                }
+            }
+            default -> System.out.println("Enter correct EmpID");
+        }
     }
 }
