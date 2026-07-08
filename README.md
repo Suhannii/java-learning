@@ -39,6 +39,7 @@ The repository is organized cleanly by topic modules:
 * **Fruit Description Application** – Evaluating multi-branch string conditions by comparing traditional `.equals()` block checks with modern, clean Java enhanced arrow switch syntax (`->`) to safely implement case routing without standard fall-through bugs.
 *  **Day of the Week Switch Application** – Using integer inputs (`int day = in.nextInt()`) combined with enhanced arrow switch logic to dynamically map integers (1-7) to corresponding weekdays with built-in default case validation.
 *  **Weekday vs. Weekend Grouping Application** – Demonstrating traditional switch case fall-through mechanics by stacking consecutive `case` labels (1 to 5 and 6 to 7) to group multiple inputs under a shared execution block using explicit `break` statements.
+* **Optimized Multi-Label Switch Application** – Utilizing modern Java enhanced switch features to combine multiple match targets using comma-separated labels (`case 1, 2, 3, 4, 5 ->`), completely eliminating the verbosity of traditional sequential fall-through logic.
 * *More nested loop programs coming soon!*
 ---
 
