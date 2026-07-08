@@ -41,6 +41,7 @@ The repository is organized cleanly by topic modules:
 *  **Weekday vs. Weekend Grouping Application** – Demonstrating traditional switch case fall-through mechanics by stacking consecutive `case` labels (1 to 5 and 6 to 7) to group multiple inputs under a shared execution block using explicit `break` statements.
 * **Optimized Multi-Label Switch Application** – Utilizing modern Java enhanced switch features to combine multiple match targets using comma-separated labels (`case 1, 2, 3, 4, 5 ->`), completely eliminating the verbosity of traditional sequential fall-through logic.
 * **Nested Switch Application (`NestedSwitch.java`)** – Implementing conditional hierarchies by nesting a secondary string-based switch statement (evaluating `department`) inside a parent integer-based switch block (evaluating `empID`) to manage layered data relationships cleanly.
+* **Enhanced Nested Switch Optimization** – Refactoring nested switch conditions using modern Java lambda-style arrow rules (`->`) inside multiline code blocks, showcasing an optimized, readable architectural flow free of manual break parameters.
 * *More nested loop programs coming soon!*
 ---
 
