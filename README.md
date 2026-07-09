@@ -43,6 +43,10 @@ The repository is organized cleanly by topic modules:
 * **Nested Switch Application (`NestedSwitch.java`)** – Implementing conditional hierarchies by nesting a secondary string-based switch statement (evaluating `department`) inside a parent integer-based switch block (evaluating `empID`) to manage layered data relationships cleanly.
 * **Enhanced Nested Switch Optimization** – Refactoring nested switch conditions using modern Java lambda-style arrow rules (`->`) inside multiline code blocks, showcasing an optimized, readable architectural flow free of manual break parameters.
 * *More nested loop programs coming soon!*
+
+### 🔹 **Module 4: Functions & Methods ( com.code )**
+
+* **Basic Sum Initialization Program** – Setting up a baseline user-input addition scenario using `Scanner` to establish a foundation for learning method modularization, code reusability, and handling repetitive functional operations.
 ---
 
 ## 🛠️ How to Run
