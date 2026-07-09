@@ -6,8 +6,22 @@ public class Sum {
     static void main(String[] args) {
 
         System.out.println(ans);
+        int ans = sum2();
 
 }
+
+ // return the value
+    static int sum2() {
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter number 1: ");
+        int num1 = in.nextInt();
+        System.out.println("Enter number 2 : ");
+        int num2 = in.nextInt();
+
+        int sum = num1 + num2;
+        return sum;
+        
+        
 //        System.out.println("This will never execute");
     }
 
