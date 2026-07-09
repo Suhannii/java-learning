@@ -48,6 +48,7 @@ The repository is organized cleanly by topic modules:
 
 * **Basic Sum Initialization Program** – Setting up a baseline user-input addition scenario using `Scanner` to establish a foundation for learning method modularization, code reusability, and handling repetitive functional operations.
 * **First Custom Method Implementation (`Sum.java`)** – Defining and invoking a custom helper method `sum()` with a `void` return type, isolating functional behavior away from the `main` method, and documenting basic function structure rules.
+* **Value-Returning Functions (`Sum.java`)** – Refactoring custom logic to utilize an integer return type (`static int sum2()`), returning the final calculated integer back to the caller function, and handling variables via functional assignment.
 ---
 
 ## 🛠️ How to Run
