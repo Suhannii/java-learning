@@ -50,6 +50,7 @@ The repository is organized cleanly by topic modules:
 * **First Custom Method Implementation (`Sum.java`)** – Defining and invoking a custom helper method `sum()` with a `void` return type, isolating functional behavior away from the `main` method, and documenting basic function structure rules.
 * **Value-Returning Functions (`Sum.java`)** – Refactoring custom logic to utilize an integer return type (`static int sum2()`), returning the final calculated integer back to the caller function, and handling variables via functional assignment.
 * **Parameterized Methods (`Sum.java`)** – Implementing functions with input parameters (`static int sum3(int a, int b)`) to demonstrate passing concrete values (arguments) directly into a method during execution for modular, reusable arithmetic calculation.
+* **Basic Text Greeting Method (`Greeting.java`)** – Implementing a standalone functional macro (`static void greeting()`) with a `void` return type and zero parameter inputs to demonstrate foundational method call execution and basic printing isolation.
 ---
 
 ## 🛠️ How to Run
