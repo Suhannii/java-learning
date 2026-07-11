@@ -53,6 +53,7 @@ The repository is organized cleanly by topic modules:
 * **Basic Text Greeting Method (`Greeting.java`)** – Implementing a standalone functional macro (`static void greeting()`) with a `void` return type and zero parameter inputs to demonstrate foundational method call execution and basic printing isolation.
 * **String-Returning Functions (`StringExample.java`)** – Creating a custom method with a `String` object return type (`static String greet()`), returning a localized text value back to the `main` application layer for terminal output assignment.
 * **String-Returning Functions (`StringExample.java`)** – Creating a custom method with a `String` object return type (`static String greet()`), returning a localized text value back to the `main` application layer for terminal output assignment.
+* **Value Swapping Mechanism (`swap.java`)** – Implementing classic element exchange logic using a temporary pointer container (`int temp`) to illustrate step-by-step variable reassignment mechanics before shifting into function-based reference scopes.
 ---
 
 ## 🛠️ How to Run
