@@ -54,6 +54,7 @@ The repository is organized cleanly by topic modules:
 * **String-Returning Functions (`StringExample.java`)** – Creating a custom method with a `String` object return type (`static String greet()`), returning a localized text value back to the `main` application layer for terminal output assignment.
 * **String-Returning Functions (`StringExample.java`)** – Creating a custom method with a `String` object return type (`static String greet()`), returning a localized text value back to the `main` application layer for terminal output assignment.
 * **Value Swapping Mechanism (`swap.java`)** – Implementing classic element exchange logic using a temporary pointer container (`int temp`) to illustrate step-by-step variable reassignment mechanics before shifting into function-based reference scopes.
+* **Pass-by-Value Exploration (`swap.java`)** – Isolating swap operations and string reassignments into dedicated methods (`swap()` and `changeName()`) to prove Java's strict pass-by-value architecture and examine how variable memory references behave across different method scopes.
 ---
 
 ## 🛠️ How to Run
