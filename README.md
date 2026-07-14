@@ -57,6 +57,7 @@ The repository is organized cleanly by topic modules:
 * **Pass-by-Value Exploration (`swap.java`)** – Isolating swap operations and string reassignments into dedicated methods (`swap()` and `changeName()`) to prove Java's strict pass-by-value architecture and examine how variable memory references behave across different method scopes.
 * **Object Reference Passing (`PassingExamples.java`)** – Analyzing how reference variables behave when passed into methods (`static void greet(String naam)`), demonstrating scope boundaries and the mapping of argument values to local parameter references.
 * **Mutable Reference Behavior (`ChangeValue.java`)** – Investigating the mechanics of passing object heap pointers using integer arrays (`int[] arr`), proving that changing index values directly through a parameter variable (`nums[0] = 99`) mutates the original reference source.
+* **Variable Method Scoping (`Scope.java`)** – Establishing isolation baselines by creating a distinct evaluation function (`static void random(int marks)`) to demonstrate functional scope limits, local parameter definitions, and variable accessibility boundaries between executing methods.
 ---
 
 ## 🛠️ How to Run
