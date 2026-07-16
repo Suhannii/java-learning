@@ -57,6 +57,7 @@ The repository is organized cleanly by topic modules:
 * **Object Reference Passing (`PassingExamples.java`)** – Analyzing how reference variables behave when passed into methods (`static void greet(String naam)`), demonstrating scope boundaries and the mapping of argument values to local parameter references.
 * **Mutable Reference Behavior (`ChangeValue.java`)** – Investigating the mechanics of passing object heap pointers using integer arrays (`int[] arr`), proving that changing index values directly through a parameter variable (`nums[0] = 99`) mutates the original reference source.
 * **Variable Method Scoping (`Scope.java`)** – Establishing isolation baselines by creating a distinct evaluation function (`static void random(int marks)`) to demonstrate functional scope limits, local parameter definitions, and variable accessibility boundaries between executing methods.
+* **Block Scoping Mechanics (`Scope.java`)** – Demonstrating local block isolation using custom bracket frames (`{ }`) to explore why variables declared within a block cannot be accessed externally, while variables initialized outside can be updated within internal blocks.
 ---
 
 ## 🛠️ How to Run
