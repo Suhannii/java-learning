@@ -1,6 +1,6 @@
 # Java Learning Journey 🚀
 
-Welcome to my Java learning repository! Here I document my progress as I dive into core concepts, syntax, and data structures.
+Welcome to my Java learning repository! Here I document my progress as I dive into core concepts, syntax, and data structures.☺️
 
 ---
 
